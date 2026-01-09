@@ -66,7 +66,7 @@
   background-size: cover;
   background-position: center;
   position: relative;
-  margin-top: 55px;
+  margin-top: 50px;
 }
 
 
@@ -281,4 +281,95 @@ color: rgba(98, 115, 130, 1);
 .brain-image{
   width: 600px;
   height: 600px;
+}
+
+.early-access{
+  width: 1360px;
+height: 384px;
+background: rgba(247, 246, 242, 1);
+margin-left: 275px;
+margin-top: 122px;
+text-align: center;
+align-items: center;
+}
+
+.main-content h1{
+margin-top: 80px;
+padding-top: 80px;
+}
+.main-content .p6{
+padding-top: 16px;
+color: #627382;
+font-family: Inter;
+font-style: Regular;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+}
+
+.main-content .m-btn{
+  width: 194px;
+height: 52px;
+margin-top: 24px;
+background-color: #469165;
+color: rgba(255, 255, 255, 1);
+font-family: Inter;
+font-style: Semi Bold;
+font-size: 16px;
+font-weight: 600;
+line-height: 19px;
+letter-spacing: 0%;
+text-transform: capitalize;
+}
+.p7{
+  padding-top: 16px;
+  font-family: Inter;
+font-style: Regular;
+font-size: 16px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0%;
+}
+
+.footer{
+  margin-top: 120px;
+  background-color: #001931;
+  max-width: 100%;
+  height: 348px;
+justify-content: space-around;
+}
+
+.f-logo{
+  padding-top: 120px;
+  margin-left: 120px;
+}
+
+.social-logo{
+  color: white;
+  font-family: Inter;
+font-style: Medium;
+font-size: 20px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0%;
+margin-left: 1260px;
+margin-top:-48px;
+}
+.social-links{
+  gap: 16px;
+  margin-top: 16px;
+}
+
+.p10{
+color: white;
+padding-top: 110px;
+text-align: center;
+padding-left: 50px;
+font-family: Inter;
+font-style: Regular;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
 }
