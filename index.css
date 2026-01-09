@@ -234,3 +234,51 @@ font-family: Inter;
   margin-top: 16px;
 color: rgba(98, 115, 130, 1);
 }
+
+.brain-section{
+  display: flex;
+  align-items: center;
+  gap: 75px;
+  margin-left: 250px;
+  align-items: center;
+  max-width: 1600px;
+  height: auto;
+  background: rgba(255, 255, 255, 1);;
+}
+
+.brain-content h4{
+  color: #469165;
+}
+
+.brain-content h2{
+  margin-top: 16px;
+  font-weight: 700;
+  font-size: 48px;
+  text-transform: capitalize;
+}
+
+.brain-content .p1{
+  margin-top: 16px;
+  font-style: Regular;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.check{
+  margin-top: 40px;
+}
+
+.check .p3{
+  margin-top: 16px;
+}
+.check .p4{
+  margin-top: 16px;
+}
+.check .p5{
+  margin-top: 16px;
+}
+
+.brain-image{
+  width: 600px;
+  height: 600px;
+}
