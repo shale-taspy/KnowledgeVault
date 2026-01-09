@@ -143,19 +143,43 @@ font-family: Inter;
   margin-right: 3px;
 
 }
+.cta-button{
+    display: flex;
+    gap: 16px;
+    margin-left: 350px;
+    margin-top: 32px;
+}
+.btn2{
+    background-color: #469165;
+    border: none;
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+    border-radius: 4px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 16px;
+    padding-right: 16px;
+    cursor: pointer;
 
+}
 
-/*.hero-content .badge {
-color: #22c55e;
-background-color: white;
-width: 229px;
-height: 35px;
-border-radius: 1000px;
-margin-top: 5px;
-text-align: center;
-margin-left: 906px;
-align-items: center;
-}*/
+.btn3{
+    background-color: transparent;
+    border: 1px white;
+    border-style:solid;
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+    border-radius: 4px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 16px;
+    padding-right: 16px;
+    cursor: pointer;
+
+}
+
 
 .note-section h1{
     margin-left: 120px;
